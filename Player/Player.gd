@@ -6,7 +6,7 @@ extends KinematicBody2D
 onready var animationPlayer = $AnimationPlayer # onready já substitui a função "_ready()"
 
 # Movendo o Personagem
-const ACCELERATION = 500 # faz ele ir mas rápido e mais devagar
+const ACCELERATION = 450 # faz ele ir mas rápido e mais devagar
 const MAX_SPEED = 100 # velocidade que não vai mudar
 const FRICTION = 500 # adicionando atrito
 
