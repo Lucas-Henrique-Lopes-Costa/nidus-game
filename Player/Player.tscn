@@ -146,11 +146,11 @@ tracks/0/keys = {
 script = ExtResource( 2 )
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( -0.419025, -20.3203 )
+position = Vector2( -1.2533, -21.822 )
 scale = Vector2( 0.673272, 0.523045 )
 texture = ExtResource( 1 )
 hframes = 24
-frame = 1
+frame = 21
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( -0.19865, 0.0662174 )
